@@ -1,0 +1,15 @@
+.header{
+    position: relative;
+    display: flex;
+    height: 5rem;
+    margin-top: 10px;
+    background-color: lightcoral;
+    justify-content: space-between;
+}
+.saumya{
+    display: flex;
+    align-items:center;
+    gap:1.5rem;
+    list-style: none;
+    color: blue;
+};
